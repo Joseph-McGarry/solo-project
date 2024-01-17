@@ -1,0 +1,95 @@
+body {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background-color: blue;
+    color: red;
+    font-family: 'Times New Roman', sans-serif;
+}
+
+/* vandalay industries */
+h1 {
+    color: black;
+    font-size: 60px;
+    font-weight: bold;
+    text-shadow: 1px 1px 2px grey;
+    /* text-shadow: #FC0 1px 1px 10px; */
+}
+/* soup image */
+img {
+    display: flex;
+    align-items:center;
+    width: 50%;
+    height: auto;
+    padding: 10px;
+}
+
+/* login container */
+form {
+    background-color: rgb(224, 204, 20);
+    padding: 20px;
+    margin: 20px;
+    box-shadow: 5px 5px 2px black;
+    /* box-shadow: #FC0 1px 0 10px; */
+    border-radius: 10px;
+
+}
+
+/* username and password font */
+label {
+    display: block;
+    /* margin-bottom: 10px; */
+    margin-top: 10px;
+    color: red;
+    font-weight: bold;
+    text-shadow: 1px 1px 10px black;
+}
+
+/* input fields */
+input {
+    width: 100%;
+    padding: 10px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    box-sizing: border-box;
+    border: 2px solid black;
+    border-radius: 5px;
+    background-color: aqua;
+ }
+
+/* login button */
+input[type="submit"] {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 100px;
+    background-color: red;
+    color: rgb(224, 204, 20);
+    cursor: pointer;
+    /* box-shadow: 2px 2px black; */
+    box-shadow: 3px 3px 5px black;
+    border-radius: 5px;
+    border: none;
+    font-weight: bold;
+    text-shadow: 1px 1px 2px black;
+    font-family: 'Times New Roman', sans-serif;
+    margin: auto
+}
+
+/* sign up button */
+button {
+    width: 100px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    background-color: red;
+    color: rgb(224, 204, 20);
+    padding: 10px;
+    cursor: pointer;
+    /* border: 1px solid yellow; */
+    border: none;
+    border-radius: 5px;
+    box-shadow: 5px 5px 5px black;
+    font-weight: bold;
+    text-shadow: 1px 1px 2px black;
+    font-family: 'Times New Roman', sans-serif;
+}

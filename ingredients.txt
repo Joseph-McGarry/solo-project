@@ -1,0 +1,14 @@
+protein = ["chicken,", "bacon,", "steak,", "ham,", "lamb,", "turkey,", "sausage,","ground beef,","italian sausage,","chorizo,","ground pork,", "duck,"]
+seafood = ["lobster,", "clams,", "crab,", "cod,", "sea bass,", "halibut,", "red snapper,","shrimp,"]
+
+veggie = ["onions,", "celery,", "leeks,", "shallots,", "roma tomatoes,", "carrots,", "mushrooms,", "squash,", "beets,", "jalapenos," ,"bell pepper,", "corn,"]
+veggie2 = ["green beans,", "kale,", "spinach,", "brocoli,", "asparagus,", "green peas,", "green cabbage,", "red cabbage," ]
+
+legumes = ["black beans,", "pinto beans,", "white beans,", "lentils,", "quinoa,"]
+
+carb = ["rice,", "pasta,", "cous-cous,", "sweet potato,", "potato,","chickpeas,"]
+
+spice = ["thyme,", "rosemary,","cayenne,","cinnamon,","ginger,","lemon,","garlic,","bay leaf,"]
+toppings =["parmesan cheese","parsley","chives","greek "yogurt","crackers","herb croutons", "sour cream,", "crumbled tortilla chips,", "feta crumbles,"]
+
+

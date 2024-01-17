@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <link rel="stylesheet" href="styles.css">
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Vandalay Industries</title>
+</head>
+<body>
+
+    <h1>Vandelay Industries Presents</h1>
+
+    <img src="./Seinfeld_logo.svg.png" width="300" height="200" alt="soup">
+
+    <form action="/login" method="post">
+        <label for="username">Username:</label>
+        <input type="text" id="username" name="username" required><br>
+
+        <label for="password">Password:</label>
+        <input type="password" id="password" name="password" required><br>
+
+        <input onclick="window.location.href='/generate.html'" type="submit" value="Login">
+    </form>
+
+    <button onclick="window.location.href='/signup.html'">Sein Up</button>
+
+</body>
+</html>
